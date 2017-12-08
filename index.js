@@ -1,4 +1,6 @@
+require('style-loader!css-loader!./pil.css');
 require('./helllo.js');
-function huni(){
-  alert("你好huni");
+function hun(str){
+  alert(str);
 };
+hun('狗蛋');
