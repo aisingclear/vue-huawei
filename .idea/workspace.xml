@@ -2,15 +2,389 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add274dc-2b28-4174-bb17-6540930b33e2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/js/main.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/helllo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/js/bundle.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.recently_updates.txt" afterPath="$PROJECT_DIR$/node_modules/.recently_updates.txt" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_argparse@1.0.9@argparse/node_modules/sprintf-js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/data/prefixes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/at-rule.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/autoprefixer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/brackets.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/browsers.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/declaration.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/align-content.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/align-items.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/align-self.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/background-size.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/block-logical.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/border-image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/border-radius.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/break-props.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/cross-fade.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/display-flex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/display-grid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/filter-value.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/filter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex-basis.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex-direction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex-flow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex-grow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex-shrink.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex-spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex-values.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex-wrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/flex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/fullscreen.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/gradient.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/grid-end.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/grid-row-align.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/grid-start.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/grid-template.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/image-rendering.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/image-set.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/inline-logical.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/justify-content.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/justify-items.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/mask-border.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/order.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/pixelated.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/placeholder.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/stretch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/text-emphasis-position.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/transform-decl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/hacks/writing-mode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/info.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/old-selector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/old-value.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/prefixer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/prefixes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/processor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/resolution.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/selector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/supports.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/transition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/lib/value.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/node_modules/normalize-range" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/node_modules/num2fraction" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_autoprefixer@6.7.7@autoprefixer/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_babel-code-frame@6.26.0@babel-code-frame/node_modules/esutils" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_babel-code-frame@6.26.0@babel-code-frame/node_modules/js-tokens" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_big.js@3.2.0@big.js/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/_big.js@3.2.0@big.js/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_browserslist@1.7.7@browserslist/node_modules/caniuse-db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_browserslist@1.7.7@browserslist/node_modules/electron-to-chromium" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_caniuse-api@1.6.1@caniuse-api/node_modules/caniuse-db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_caniuse-api@1.6.1@caniuse-api/node_modules/lodash.memoize" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_caniuse-api@1.6.1@caniuse-api/node_modules/lodash.uniq" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_chalk@1.1.3@chalk/node_modules/has-ansi" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_co@4.6.0@co/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_co@4.6.0@co/History.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_co@4.6.0@co/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_co@4.6.0@co/Readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_co@4.6.0@co/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_co@4.6.0@co/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_coa@1.0.4@coa/node_modules/q" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_color@0.11.4@color/node_modules/clone" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_color@0.11.4@color/node_modules/color-string" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_colormin@1.1.2@colormin/node_modules/color" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_colormin@1.1.2@colormin/node_modules/css-color-names" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/lib/parse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/lib/parseValues.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/lib/stringify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/lib/stringifyValues.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/node_modules/.bin/cssesc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/node_modules/cssesc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/node_modules/fastparse" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/node_modules/regexpu-core" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_css-selector-tokenizer@0.7.0@css-selector-tokenizer/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/autoprefixer" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/decamelize" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/defined" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-calc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-colormin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-convert-values" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-discard-comments" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-discard-duplicates" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-discard-empty" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-discard-overridden" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-discard-unused" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-filter-plugins" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-merge-idents" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-merge-longhand" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-merge-rules" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-minify-font-values" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-minify-gradients" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-minify-params" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-minify-selectors" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-normalize-charset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-normalize-url" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-ordered-values" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-reduce-idents" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-reduce-initial" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-reduce-transforms" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-svgo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-unique-selectors" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_cssnano@3.10.0@cssnano/node_modules/postcss-zindex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_csso@2.3.2@csso/node_modules/clap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_decamelize@1.2.0@decamelize/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/_decamelize@1.2.0@decamelize/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_emojis-list@2.1.0@emojis-list/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/_emojis-list@2.1.0@emojis-list/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fastparse@1.1.1@fastparse/.eslintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fastparse@1.1.1@fastparse/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fastparse@1.1.1@fastparse/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fastparse@1.1.1@fastparse/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fastparse@1.1.1@fastparse/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fastparse@1.1.1@fastparse/lib/Parser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fastparse@1.1.1@fastparse/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_fastparse@1.1.1@fastparse/test/Parser.test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_has@1.0.1@has/node_modules/function-bind" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_icss-replace-symbols@1.1.0@icss-replace-symbols/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_icss-replace-symbols@1.1.0@icss-replace-symbols/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_icss-replace-symbols@1.1.0@icss-replace-symbols/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_icss-replace-symbols@1.1.0@icss-replace-symbols/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_icss-replace-symbols@1.1.0@icss-replace-symbols/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_icss-utils@2.1.0@icss-utils/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_is-svg@2.1.0@is-svg/node_modules/html-comment-regex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_js-yaml@3.7.0@js-yaml/node_modules/.bin/esparse" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_js-yaml@3.7.0@js-yaml/node_modules/.bin/esvalidate" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_js-yaml@3.7.0@js-yaml/node_modules/argparse" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_js-yaml@3.7.0@js-yaml/node_modules/esprima" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_loader-utils@1.1.0@loader-utils/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/_loader-utils@1.1.0@loader-utils/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_minimist@0.0.8@minimist/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/_minimist@0.0.8@minimist/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_mkdirp@0.5.1@mkdirp/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/_mkdirp@0.5.1@mkdirp/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_normalize-url@1.9.1@normalize-url/node_modules/prepend-http" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_normalize-url@1.9.1@normalize-url/node_modules/query-string" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_normalize-url@1.9.1@normalize-url/node_modules/sort-keys" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_object-assign@4.1.1@object-assign/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/_object-assign@4.1.1@object-assign/.npminstall.done" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-calc@5.3.1@postcss-calc/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-calc@5.3.1@postcss-calc/node_modules/postcss-message-helpers" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-calc@5.3.1@postcss-calc/node_modules/reduce-css-calc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-colormin@2.2.2@postcss-colormin/node_modules/colormin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-colormin@2.2.2@postcss-colormin/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-colormin@2.2.2@postcss-colormin/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-convert-values@2.6.1@postcss-convert-values/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-convert-values@2.6.1@postcss-convert-values/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-comments@2.0.4@postcss-discard-comments/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-duplicates@2.1.0@postcss-discard-duplicates/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-empty@2.1.0@postcss-discard-empty/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/.babelrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/test/input.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-overridden@0.1.1@postcss-discard-overridden/test/output.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-unused@2.2.3@postcss-discard-unused/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-unused@2.2.3@postcss-discard-unused/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-unused@2.2.3@postcss-discard-unused/LICENSE-MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-unused@2.2.3@postcss-discard-unused/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-unused@2.2.3@postcss-discard-unused/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-unused@2.2.3@postcss-discard-unused/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-unused@2.2.3@postcss-discard-unused/node_modules/uniqs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-discard-unused@2.2.3@postcss-discard-unused/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-filter-plugins@2.0.2@postcss-filter-plugins/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-filter-plugins@2.0.2@postcss-filter-plugins/node_modules/uniqid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-idents@2.1.7@postcss-merge-idents/node_modules/has" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-idents@2.1.7@postcss-merge-idents/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-idents@2.1.7@postcss-merge-idents/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-longhand@2.0.2@postcss-merge-longhand/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/LICENSE-MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/dist/lib/clone.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/dist/lib/ensureCompatibility.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/node_modules/.bin/browserslist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/node_modules/browserslist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/node_modules/caniuse-api" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/node_modules/postcss-selector-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/node_modules/vendors" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-merge-rules@2.1.2@postcss-merge-rules/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-font-values@1.0.5@postcss-minify-font-values/node_modules/object-assign" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-font-values@1.0.5@postcss-minify-font-values/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-font-values@1.0.5@postcss-minify-font-values/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-gradients@1.0.5@postcss-minify-gradients/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-gradients@1.0.5@postcss-minify-gradients/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/node_modules/alphanum-sort" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/node_modules/uniqs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-params@1.2.2@postcss-minify-params/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/LICENSE-MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/dist/lib/canUnquote.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/dist/lib/unquote.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/node_modules/alphanum-sort" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/node_modules/has" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/node_modules/postcss-selector-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-minify-selectors@2.1.1@postcss-minify-selectors/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-extract-imports@1.1.0@postcss-modules-extract-imports/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-extract-imports@1.1.0@postcss-modules-extract-imports/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-extract-imports@1.1.0@postcss-modules-extract-imports/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-extract-imports@1.1.0@postcss-modules-extract-imports/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-extract-imports@1.1.0@postcss-modules-extract-imports/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-local-by-default@1.2.0@postcss-modules-local-by-default/node_modules/css-selector-tokenizer" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-local-by-default@1.2.0@postcss-modules-local-by-default/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-scope@1.1.0@postcss-modules-scope/node_modules/css-selector-tokenizer" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-scope@1.1.0@postcss-modules-scope/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/node_modules/icss-replace-symbols" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/src/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-modules-values@1.3.0@postcss-modules-values/test/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-charset@1.1.1@postcss-normalize-charset/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/LICENSE-MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/node_modules/is-absolute-url" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/node_modules/normalize-url" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-normalize-url@3.0.8@postcss-normalize-url/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-ordered-values@2.2.3@postcss-ordered-values/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-ordered-values@2.2.3@postcss-ordered-values/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/LICENSE-MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/dist/lib/cache.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/dist/lib/counter-style.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/dist/lib/counter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/dist/lib/encode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/dist/lib/grid-template.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/dist/lib/isNum.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/dist/lib/keyframes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-idents@2.4.0@postcss-reduce-idents/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-initial@1.0.1@postcss-reduce-initial/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-transforms@1.0.4@postcss-reduce-transforms/node_modules/has" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-transforms@1.0.4@postcss-reduce-transforms/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-reduce-transforms@1.0.4@postcss-reduce-transforms/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-selector-parser@2.2.3@postcss-selector-parser/node_modules/flatten" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-selector-parser@2.2.3@postcss-selector-parser/node_modules/indexes-of" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-selector-parser@2.2.3@postcss-selector-parser/node_modules/uniq" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-svgo@2.1.6@postcss-svgo/node_modules/.bin/svgo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-svgo@2.1.6@postcss-svgo/node_modules/is-svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-svgo@2.1.6@postcss-svgo/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-svgo@2.1.6@postcss-svgo/node_modules/postcss-value-parser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-svgo@2.1.6@postcss-svgo/node_modules/svgo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/LICENSE-MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/node_modules/alphanum-sort" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/node_modules/uniqs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-unique-selectors@2.0.2@postcss-unique-selectors/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-zindex@2.2.0@postcss-zindex/node_modules/has" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-zindex@2.2.0@postcss-zindex/node_modules/postcss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss-zindex@2.2.0@postcss-zindex/node_modules/uniqs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss@5.2.18@postcss/node_modules/chalk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss@5.2.18@postcss/node_modules/js-base64" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss@5.2.18@postcss/node_modules/source-map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_postcss@5.2.18@postcss/node_modules/supports-color" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_query-string@4.3.4@query-string/node_modules/object-assign" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_query-string@4.3.4@query-string/node_modules/strict-uri-encode" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_reduce-css-calc@1.3.0@reduce-css-calc/node_modules/balanced-match" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_reduce-css-calc@1.3.0@reduce-css-calc/node_modules/math-expression-evaluator" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_reduce-css-calc@1.3.0@reduce-css-calc/node_modules/reduce-function-call" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_reduce-function-call@1.0.2@reduce-function-call/node_modules/balanced-match" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_regexpu-core@1.0.0@regexpu-core/node_modules/.bin/regjsparser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_regexpu-core@1.0.0@regexpu-core/node_modules/regenerate" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_regexpu-core@1.0.0@regexpu-core/node_modules/regjsgen" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_regexpu-core@1.0.0@regexpu-core/node_modules/regjsparser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_regjsparser@0.1.5@regjsparser/node_modules/.bin/jsesc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_regjsparser@0.1.5@regjsparser/node_modules/jsesc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/dist/ValidationError.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/dist/cjs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/dist/validateOptions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_schema-utils@0.3.0@schema-utils/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_sort-keys@1.1.2@sort-keys/node_modules/is-plain-obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_supports-color@2.0.0@supports-color/.npminstall.done" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_supports-color@2.0.0@supports-color/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_supports-color@2.0.0@supports-color/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_supports-color@2.0.0@supports-color/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_supports-color@2.0.0@supports-color/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/.bin/csso" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/.bin/js-yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/.bin/mkdirp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/coa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/colors" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/csso" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/js-yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/mkdirp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/sax" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_svgo@0.7.2@svgo/node_modules/whet.extend" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_uniqid@4.1.1@uniqid/node_modules/macaddress" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-code-frame" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cssesc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cssnano" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/defined" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/icss-utils" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.camelcase" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-calc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-colormin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-convert-values" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-discard-comments" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-discard-duplicates" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-discard-empty" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-filter-plugins" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-merge-idents" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-merge-longhand" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-minify-font-values" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-minify-gradients" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-modules-local-by-default" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-modules-scope" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-normalize-charset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-ordered-values" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-reduce-initial" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-reduce-transforms" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-svgo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-zindex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regexpu-core" afterPath="" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/pil.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" afterPath="$PROJECT_DIR$/src/js/main.js" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,13 +397,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="vue-huawei" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="418">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -38,8 +415,8 @@
       <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/webpack/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,24 +432,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="228">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bundle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/js/bundle.js">
+      <file leaf-file-name="index-b974e14075b0c711354e.html.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index-b974e14075b0c711354e.html.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,8 +455,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -90,8 +465,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+            <state relative-caret-position="76">
+              <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -121,10 +496,11 @@
         <option value="$PROJECT_DIR$/src/style.css" />
         <option value="$PROJECT_DIR$/style/style.css" />
         <option value="$PROJECT_DIR$/src/style/style.css" />
-        <option value="$PROJECT_DIR$/src/js/main.js" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/dist/js/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
       </list>
     </option>
   </component>
@@ -139,9 +515,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="90" />
+    <option name="y" value="23" />
+    <option name="width" value="1350" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -197,12 +575,6 @@
             <path>
               <item name="vue-huawei" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-huawei" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-huawei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-huawei" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -247,27 +619,29 @@
       <updated>1512712782160</updated>
       <workItem from="1512712783505" duration="2145000" />
       <workItem from="1512716482378" duration="6698000" />
-      <workItem from="1512731438670" duration="826000" />
+      <workItem from="1512731438670" duration="1754000" />
+      <workItem from="1512735838872" duration="63000" />
+      <workItem from="1512735922379" duration="3755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9669000" />
+    <option name="totallyTimeSpent" value="14415000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="90" y="23" width="1350" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.034722224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19262603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4936042" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -291,6 +665,134 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/main-[chunkhush].js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/main-[chunkhush].js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -327,9 +829,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -374,14 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/webpack/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/webpack/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -397,45 +889,107 @@
     <entry file="file://$PROJECT_DIR$/src/style.css" />
     <entry file="file://$PROJECT_DIR$/style/style.css" />
     <entry file="file://$PROJECT_DIR$/src/style/style.css" />
-    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+    <entry file="file://$PROJECT_DIR$/bundle.js" />
+    <entry file="file://$PROJECT_DIR$/dist/js/bundle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bundle.js" />
+    <entry file="file://$PROJECT_DIR$/dist/js/main-[chunkhush].js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/main-b1bdd5c20d896eaf1934.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index-[hash.html].js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index-fcc4998c6b72d2d9a59d.html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index-b974e14075b0c711354e.html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        <state relative-caret-position="76">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/js/bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="228">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding />
         </state>
       </provider>
