@@ -1,3 +1,3 @@
 function huni(){
-    alert("你好huni");
+  alert("你好huni");
 };
