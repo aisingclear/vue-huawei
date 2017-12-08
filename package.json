@@ -1,0 +1,21 @@
+{
+  "name": "vue-huawei",
+  "version": "1.0.0",
+  "description": "huawei",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "huawei"
+  ],
+  "author": "aisingclear",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
