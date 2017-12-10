@@ -1,3 +1,5 @@
+import {baz} from './layer.js';
+//import './u.css'
 (function pl(){
-  alert('你好');
+  console.log (baz.me());
 })();
